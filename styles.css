@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+.name {
+	width : 1000px;
+	height : 30px;
+	font-family: "SF Pro Text-Regular", Helvetica;
+	font-weight: 400;
+	font-size: 30px;
+	color: blue;
+}
+.skills {
+	width :500px;
+	height : 120px;
+	font-family : "SF Pro Text-Regular", Helvetica;
+	font-weight : 400;
+	font-size : 20px;
+	color: blue;
+}
+.skills .list {
+	width : 400px;
+	height : 20px;
+	font-family : "SF Pro Text-Regular", Helvetica;
+	font-weight : 400;
+	font-size : 20px;
+	color : green;
+}
+.projects {
+	width :500px;
+	height : 20px;
+	font-family : "SF Pro Text-Regular", Helvetica;
+	font-weight : 400;
+	font-size : 20px;
+	color: blue;
+}
+.projects .list {
+	width : 400px;
+	height : 20px;
+	font-family : "SF Pro Text-Regular", Helvetica;
+	font-weight : 400;
+	font-size : 20px;
+	color : green;
+}
